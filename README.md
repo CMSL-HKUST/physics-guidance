@@ -4,7 +4,7 @@ This repository contains the codes for implementing Physics-guided diffusion mod
 
 Six separate folders are archived in this repository: __diffusion__ contains the codes of score based diffusion models (training and sampling) and three numerical examples of designing the foam materails, __THERM__ contains the thermal analysis codes, __MECH__ contains the mechanical analysis codes, __experiment__ contains the load-displacement curves, __PF__ contains the phase-field simulation codes, and __foam__ contains the code for generating the foam microstructures. The codes are written in Python and PyTorch.
 
-## Illustration of phsics-guided diffusion models
+__Illustration of phsics-guided diffusion models__
 
 <p align="middle">
   <img src="docs/intro.jpg" width="700" />

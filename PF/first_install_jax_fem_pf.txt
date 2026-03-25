@@ -1,0 +1,2 @@
+cd jax_fem_pf
+pip install -e .

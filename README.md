@@ -1,4 +1,4 @@
-# Physics-guided
+# Physics-guided diffusion models
 
 This repository contains the codes for implementing Physics-guided diffusion models for inverse design of disordered metamaterials.
 
